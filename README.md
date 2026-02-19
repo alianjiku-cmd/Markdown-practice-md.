@@ -3,8 +3,8 @@
                               - Linux                                                                                                                                                                     - Python
                               - Git              
 ###markdown exercise 4-(Ordered list)
-                        
-
-
+                        -make changes
+                        -stage changes
+                        -commit the staged change
 
 
